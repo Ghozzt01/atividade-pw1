@@ -1,0 +1,53 @@
+#sub-titulo1{
+    color: pink;
+    font-size: 30px;
+    border: 8px solid orange;
+    padding: 30px;
+    margin: 20px;
+    background-color: blueviolet; 
+    display: flex;
+}
+.sub-titulo{
+    color: red;
+    font-size: 30px;
+    border: 1px solid black;
+    padding: 30px;
+    margin: 20px;
+    background-color: blueviolet; 
+    display: flex;
+}
+
+span{
+    background-color: greenyellow;
+    margin-top: 40px;
+}
+
+div{
+    background-color: orangered;
+    margin-top: 40px;
+    padding: 30px;
+}
+
+img{
+    width: 25%;
+    height: 25%;
+}
+
+body{
+    background-color: rgb(44, 42, 42);
+    color: white;
+    padding: 30px;
+}
+p{
+    background-color: blue;
+}
+
+h2{
+    color: rgb(255, 153, 0);
+    font-size: 30px;
+    border: 1px solid black;
+    padding: 30px;
+    margin: 20px;
+    background-color: blueviolet; 
+    display: flex;
+}
